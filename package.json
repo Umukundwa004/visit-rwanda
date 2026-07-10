@@ -5,6 +5,7 @@
   "description": "Visit Rwanda — Premium Tourism Website",
   "type": "module",
   "scripts": {
+    "test": "vite test",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
